@@ -24,4 +24,17 @@ Week 3 — Business Intelligence and Predictive InsightsThe third week focused o
 
 Week 4 — Executive Reporting and Portfolio PresentationThe fourth week focused on communicating the results to decision-makers. I prepared an end-of-month analytics report, developed a business optimization proposal, created an executive dashboard, produced a portfolio presentation, and documented my professional reflection.The primary recommendation was to implement a centralized refreshable marketing-performance pipeline connecting controlled raw-data storage, documented cleaning rules, a single reporting table, and a dashboard refresh process.View Week 4 folder
 
-Main Business InsightsEmail was the most efficient channelEmail produced the highest blended ROI at 688.9% and the lowest channel cost per lead at $27.75. High-performing programs included VIP Early Access and Loyalty Win-Back campaigns.Revenue increased each monthRevenue increased from $389,000 in July to $447,000 in August and $502,000 in September. September was the strongest month by revenue and conversions.Scaling should be disciplinedThe weak spend-leads correlation indicates that increasing spend alone may not generate proportional lead growth. Budget decisions should also consider campaign quality, audience targeting, creative performance, and conversion efficiency.Reporting automation would improve decision-makingA centralized and refreshable reporting pipeline would reduce manual preparation, improve data traceability, and help stakeholders access consistent KPIs more quickly.
+Main Business Insights
+Email was the most efficient channel
+Email produced the highest blended ROI at 688.9% and the lowest channel cost per lead at $27.75. High-performing programs included VIP Early Access and Loyalty Win-Back campaigns.
+
+Revenue increased each month
+Revenue increased from $389,000 in July to $447,000 in August and $502,000 in September. September was the strongest month by revenue and conversions.
+
+Scaling should be disciplined
+The weak spend-leads correlation indicates that increasing spend alone may not generate proportional lead growth. Budget decisions should also consider campaign quality, audience targeting, creative performance, and conversion efficiency.Reporting automation would improve decision-makingA centralized and refreshable reporting pipeline would reduce manual preparation, improve data traceability, and help stakeholders access consistent KPIs more quickly.
+
+Dashboard and Visualization GalleryVisualization Purpose
+Marketing Performance Dashboard Shows KPIs, channel ROI, revenue trend, and top campaigns
+Business Intelligence Dashboard Shows spend-leads relationship, campaign segmentation, and projection
+End-of-Month Executive Dashboard Shows month-end KPIs, channel decisions, and reporting recommendation
