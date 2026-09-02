@@ -39,3 +39,12 @@ Dashboard and Visualization Gallery
 Marketing Performance Dashboard: Shows KPIs, channel ROI, revenue trend, and top campaigns
 Business Intelligence Dashboard: Shows spend-leads relationship, campaign segmentation, and projection
 End-of-Month Executive Dashboard: Shows month-end KPIs, channel decisions, and reporting recommendation
+
+Tools and Skills Demonstrated•Microsoft Excel or Google Sheets.
+•Dashboard design and KPI development.
+•Data cleaning and validation.•Exploratory data analysis.
+•Business intelligence reporting.
+•Trend analysis and correlation analysis.
+•Basic regression and projection.
+•Data storytelling.
+•Executive communication.•GitHub portfolio organization.
