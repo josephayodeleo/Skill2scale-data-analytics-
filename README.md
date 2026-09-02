@@ -48,3 +48,9 @@ Tools and Skills Demonstrated•Microsoft Excel or Google Sheets.
 •Basic regression and projection.
 •Data storytelling.
 •Executive communication.•GitHub portfolio organization.
+
+Reflection
+This project improved my ability to manage a complete analytics workflow, from data cleaning and documentation to dashboard creation, predictive analysis, and executive communication. I learned that effective analytics requires more than calculations; it also depends on reproducibility, clear assumptions, organized files, and recommendations that stakeholders can act on. My next development goal is to build more automated data pipelines and apply more robust forecasting methods to larger real-world.
+
+Acknowledgement
+This portfolio was completed as part of the Skill2Scale Four-Week Virtual Internship Project in Data Analytics.
