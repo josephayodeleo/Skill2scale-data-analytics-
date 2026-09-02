@@ -32,9 +32,10 @@ Revenue increased each month
 Revenue increased from $389,000 in July to $447,000 in August and $502,000 in September. September was the strongest month by revenue and conversions.
 
 Scaling should be disciplined
-The weak spend-leads correlation indicates that increasing spend alone may not generate proportional lead growth. Budget decisions should also consider campaign quality, audience targeting, creative performance, and conversion efficiency.Reporting automation would improve decision-makingA centralized and refreshable reporting pipeline would reduce manual preparation, improve data traceability, and help stakeholders access consistent KPIs more quickly.
+The weak spend-leads correlation indicates that increasing spend alone may not generate proportional lead growth. Budget decisions should also consider campaign quality, audience targeting, creative performance, and conversion efficiency.Reporting automation would improve decision-making
+A centralized and refreshable reporting pipeline would reduce manual preparation, improve data traceability, and help stakeholders access consistent KPIs more quickly.
 
-Dashboard and Visualization GalleryVisualization Purpose
-Marketing Performance Dashboard Shows KPIs, channel ROI, revenue trend, and top campaigns
-Business Intelligence Dashboard Shows spend-leads relationship, campaign segmentation, and projection
-End-of-Month Executive Dashboard Shows month-end KPIs, channel decisions, and reporting recommendation
+Dashboard and Visualization Gallery
+Marketing Performance Dashboard: Shows KPIs, channel ROI, revenue trend, and top campaigns
+Business Intelligence Dashboard: Shows spend-leads relationship, campaign segmentation, and projection
+End-of-Month Executive Dashboard: Shows month-end KPIs, channel decisions, and reporting recommendation
