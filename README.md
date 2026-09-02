@@ -13,3 +13,6 @@ Project ObjectivesThe main objectives of this project were to:
 •Produce a directional revenue projection.
 •Translate analytical findings into practical recommendations.
 •Communicate results through professional reports and presentations.
+
+Weekly Project Work
+Week 1 — Data Foundations and OrganizationThe first week focused on preparing the data for reliable analysis. I audited the raw campaign extract, removed one duplicate record, resolved one missing revenue value using a documented channel-month median rule, standardized an inconsistent campaign name, and produced a cleaned dataset.Deliverables included:•Data audit and cleaning report.•Cleaned campaign dataset.•Data dictionary.•Folder and file-management SOP.•Summary statistics table.•Professional weekly data-insights email.View Week 1 folder
